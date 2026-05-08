@@ -1,8 +1,3 @@
-## Face Recon (Lumaire funnel MVP)
-
-This repo contains:
-- `client/`: Next.js funnel + on-screen Lumaire-branded report
-- `server/`: Fastify + TypeScript API (OpenRouter-backed report generation + Mongo lead capture)
 
 ### Setup
 
